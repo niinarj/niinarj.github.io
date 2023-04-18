@@ -1,0 +1,35 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+h1{ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a {
+    color: #72F67B;
+}
+a:hover{
+    color:black;
+}
+header {
+    background-image: url(../kuvat/peikko.jpg); 
+    background-repeat:repeat;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    color: rgb(255, 255, 255);
+}
+
+footer{
+    background-color: #A2F9A8;
+    text-align: center;
+    position:fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height:30px;   
+}

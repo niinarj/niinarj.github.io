@@ -1,0 +1,22 @@
+.important{
+    color:#72F67B;
+    text-decoration: dashed;
+}
+
+body{
+    background-color: #ffffff;
+    text-align: center;
+    text-decoration:dotted;  
+}
+
+footer{
+    background-color: #a2f9a85b;
+    text-align: center;
+    position:fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height:30px;
+}
+
+
